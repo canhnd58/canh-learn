@@ -8,3 +8,5 @@ instance/
 
 tmp*
 *.tmp
+
+*.egg-info/
