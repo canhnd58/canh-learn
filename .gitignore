@@ -13,3 +13,6 @@ tmp*
 .coverage
 htmlcov/
 .pytest_cache/
+
+build/
+dist/
