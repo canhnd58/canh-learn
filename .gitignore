@@ -10,3 +10,6 @@ tmp*
 *.tmp
 
 *.egg-info/
+.coverage
+htmlcov/
+.pytest_cache/
